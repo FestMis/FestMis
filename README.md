@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Festus
-- 👀 I’m interested in Python, Data Science, Databases, Servers, Cloud, and infosec.
-- 🌱 I’m currently studying for my AWS CPP exam and Comptia Security+ certifications.
+- 👀 I’m interested in Python, Cybersecurity, Data Science, Databases, Servers, and Cloud.
+- 🌱 I’m currently studying for my AWS exam, Fortinet NSE 4, and Comptia Security+ certifications.
 - 💞️ I’m looking to collaborate on backend development, majorly in Django or & Flask.
 - 📫 How to reach me send me an email.
 
